@@ -1,0 +1,2 @@
+Đây là file week1.txt
+thuộc brach: week1
