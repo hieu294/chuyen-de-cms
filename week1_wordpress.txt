@@ -1,0 +1,2 @@
+Đây là file week1_wordpress.txt 
+Thuộc branch week1_wordpress
